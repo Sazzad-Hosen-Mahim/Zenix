@@ -44,7 +44,7 @@ const Story = () => {
   return (
     <section id="story" className="min-h-dvh w-screen bg-black text-blue-50">
       <div className="flex size-full flex-col items-center py-10 pb-24">
-        <p className="font-general text-sm uppercase md:text-[20px]">
+        <p className="font-general text-sm uppercase md:text-[20px] font-bold">
           The multiversal ip world
         </p>
         <div className="relative size-full">
@@ -73,7 +73,7 @@ const Story = () => {
         </div>
         <div className="-mt-80 flex w-full justify-center md:-mt-64 md:me-44 md:justify-end">
           <div className="flex h-full w-fit flex-col items-center md:items-start">
-            <p className="mt-3 max-w-sm text-center font-circularWeb text-violet-50 md:text-start">
+            <p className="mt-3 max-w-sm text-center font-circularWeb text-violet-50 md:text-start font-semibold">
               Where Realms converge, lies Zenix and the boundless pillar.
               Discover it&apos;s secrets and shape your fate amidst infinite
               opportunities.
