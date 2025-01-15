@@ -68,7 +68,7 @@ const Features = () => {
           <p className="font-circularWeb text-lg text-blue-50">
             Unleash the Ultimate Gaming Experience
           </p>
-          <p className="max-w-md font-circularWeb text-lg text-blue-50 opacity-50">
+          <p className="max-w-md font-circularWeb text-lg text-blue-50 opacity-50 mt-5">
             Dive into Zenix, where every pixel is crafted for players who crave
             thrilling gameplay, seamless performance, and endless adventures.
             Discover lightning-fast matchmaking, personalized game
