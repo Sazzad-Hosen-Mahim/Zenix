@@ -116,7 +116,7 @@ const Features = () => {
               src="/videos/feature-4.mp4"
               title={
                 <>
-                  R<b>e</b>alm
+                  Od<b>y</b>sse<b>y</b>
                 </>
               }
               description="Discover a gaming hub where immersive adventures, competitive challenges, and limitless fun come together."
